@@ -1,0 +1,12 @@
+# Data (too large for git)
+data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Models (optional — uncomment to include weights)
+# results/models/
