@@ -16,3 +16,6 @@ seaborn==0.13.2
 # Utilities
 tqdm==4.66.4
 requests==2.32.2
+
+# Pipeline
+snakemake==8.27.1
